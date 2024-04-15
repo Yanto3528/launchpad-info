@@ -3,7 +3,6 @@
     "name": "Backpack",
     "tokenName": "BPT",
     "preSaleStartDate": "2024-04-16T01:38:36.905Z",
-    "whitelistSaleStartDate": "2024-04-20T01:38:36.905Z",
     "allocations": [
       { "name": "Presale", "value": 45 },
       { "name": "Unlocked", "value": 13 },
