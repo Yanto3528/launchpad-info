@@ -1,0 +1,35 @@
+{
+  "offchainInfo": {
+    "name": "Backpack",
+    "tokenName": "BPT",
+    "preSaleStartDate": "2024-04-16T01:38:36.905Z",
+    "whitelistSaleStartDate": "2024-04-20T01:38:36.905Z",
+    "allocations": [
+      { "name": "Presale", "value": 45 },
+      { "name": "Unlocked", "value": 13 },
+      { "name": "Locked", "value": 1.5 },
+      { "name": "Liquidity", "value": 40 },
+      { "name": "Fees", "value": 0.5 }
+    ],
+    "info": {
+      "totalSupply": 10000000000,
+      "networkDetails": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "liquidityLock": "60% ETH raised",
+      "duration": "11 Months",
+      "pulic": "One to anyone",
+      "totalRaise": "500 ETH",
+      "maxSpendPerAccount": "1.6728 ETH",
+      "presalePrice": 33333333,
+      "listingPrice": 33333333
+    },
+    "tokenTradeDate": "2024-04-21T01:38:36.905Z",
+    "whitepaperUrl": "docs.backpackwallet.io",
+    "applicationUrl": "backpackwallet.io",
+    "programId": "EZkJYRtyCoWX157K3WgATqACMAS6brNrHmbkb3s5535N",
+    "accountAddress": "9GmRR2zxhrKNcQbaRKh6S6RUP7sWvLUaqkB98CrvEQfx"
+  },
+  "onchainInfo": {
+    "price": 0.1,
+    "priceUnit": "SOL"
+  }
+}
