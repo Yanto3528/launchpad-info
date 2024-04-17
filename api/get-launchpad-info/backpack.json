@@ -25,7 +25,8 @@
     "whitepaperUrl": "docs.backpackwallet.io",
     "applicationUrl": "backpackwallet.io",
     "programId": "EZkJYRtyCoWX157K3WgATqACMAS6brNrHmbkb3s5535N",
-    "accountAddress": "9GmRR2zxhrKNcQbaRKh6S6RUP7sWvLUaqkB98CrvEQfx"
+    "accountAddress": "9GmRR2zxhrKNcQbaRKh6S6RUP7sWvLUaqkB98CrvEQfx",
+    "rpcUrl": "https://api.devnet.solana.com"
   },
   "onchainInfo": {
     "price": 0.1,
